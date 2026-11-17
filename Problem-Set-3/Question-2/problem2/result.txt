@@ -1,0 +1,43 @@
+-1
+-1
+18 mv fileA.txt dir/
+1 
+-1
+-1
+14 sort list.txt
+-1
+19 head -n 5 file.txt
+18 echo 'quoted arg'
+28 Answering a question/making 
+-1
+-1
+-1
+-1
+17 echo hello world
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+9 ls -l ./
+6 df -h
+-1
+-1
+14 cat cse29.txt
+-1
+-1
+-1
+-1
+10 cat cse29.
+10 unset VAR

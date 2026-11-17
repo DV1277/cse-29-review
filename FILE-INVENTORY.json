@@ -1,0 +1,1312 @@
+[
+  {
+    "path": "Lab-3/README.md",
+    "bytes": 45,
+    "sha256": "c8172fd0ee009d58a4c3a3e05022b7de5c28052e93108992f9848fee908773f1"
+  },
+  {
+    "path": "Lab-3/SOURCE.md",
+    "bytes": 494,
+    "sha256": "9936f23b6420c8a2fd3e7ba21aa891f0116f748d31068165487e4ca876b385e6"
+  },
+  {
+    "path": "Lab-3/Wall/hitawall.c",
+    "bytes": 126,
+    "sha256": "d765112e35caddf023d4eec5e1f46b107945dba9a1f72bad19ba6feafd925244"
+  },
+  {
+    "path": "Lab-3/Wall/wallyandeve.c",
+    "bytes": 203,
+    "sha256": "926ae3b52fb904ea532105f63892c7b8b8e6eb9d69f1a0420b576fc26dba8bda"
+  },
+  {
+    "path": "Lab-3/gdb/buggy_alt_caps.c",
+    "bytes": 765,
+    "sha256": "04db107bcf92e21b10291b769189de3f84f02a5d3ef8430efcf8816dde516ef8"
+  },
+  {
+    "path": "Lab-3/gdb/buggy_atob.c",
+    "bytes": 623,
+    "sha256": "6046b97aeb449d923383a9bb1239506791f1a5a3635c4114a013c7bb7717c888"
+  },
+  {
+    "path": "Lab-3/gdb/buggy_reverse.c",
+    "bytes": 1392,
+    "sha256": "586110bed587cc074cb5d253dd957550b0fd0fe5d8365034eb4e5ac778667b69"
+  },
+  {
+    "path": "Lab-3/gdb/charshift.c",
+    "bytes": 587,
+    "sha256": "ae6503fce2c7d47460b19ddca70b4ef4dffa531c0940f910ff8df6c1a385e44f"
+  },
+  {
+    "path": "Lab-3/gdb/count_vowels.c",
+    "bytes": 647,
+    "sha256": "3c15c92bb9059e978ad5b9f01d8df53af419cadd75ae8382350b0f1bdb9b0a06"
+  },
+  {
+    "path": "Lab-3/gdb/index_of_E.c",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/Makefile",
+    "bytes": 180,
+    "sha256": "8f3e805102e146ae9592db92244d592a71b738e5c4b122b28b70998c61aa1222"
+  },
+  {
+    "path": "Lab-4/SOURCE.md",
+    "bytes": 494,
+    "sha256": "b366f30256c548400d6756c650c2089da6366f3d5d96aeffe498594ed683f9c7"
+  },
+  {
+    "path": "Lab-4/grep.txt",
+    "bytes": 1584,
+    "sha256": "4796dc3d93a919b724e14626c2506eeef89d25febd0900c51bfc5149611fc597"
+  },
+  {
+    "path": "Lab-4/indie/folk/east_coast/William_Austin.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/folk/east_coast/harf.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/folk/kitchen_dancing/Field_Guide.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/folk/less_indie/Lord_Huron.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/folk/less_indie/Mt_Joy.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/folk/less_indie/Noah_Kahan.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/folk/nashville/Abby_Powledge.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/folk/nashville/Emma_Anderson.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/folk/nashville/Pretty_Jane.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/grunge/Couch_Dog.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/grunge/Skeggs.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/sd/Foxtide.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/sd/JETTEE.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/sd/Kickback.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/sd/SANDS.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/sd/Saint_Luna.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/sd/Winnabego.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/sd/dadlore.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/slc/Cardinal_Bloom.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/slc/The_Backseat_Lovers.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/slc/The_Kilans.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/slc/The_Moss.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/surf/Ax_and_the_Hatchetmen.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/surf/Easy_Honey.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/surf/Peach_Pit.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/surf/Sun_Room.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/indie/rock/surf/The_Runarounds.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-4/lotr.txt",
+    "bytes": 144,
+    "sha256": "02b902ef34ac5c71d1d99050bae6d3cc94905b27fc145a3add7642a0e9a160ad"
+  },
+  {
+    "path": "Lab-4/message.txt",
+    "bytes": 41070,
+    "sha256": "50a60457de237b4926ad1a66f192a49adec3ab8264834e16c0cbf6353b950a77"
+  },
+  {
+    "path": "Lab-4/problem.c",
+    "bytes": 542,
+    "sha256": "bee9eaf05ad312f27969cc502aec304792518b0d876f9e82738d50a55c9c4388"
+  },
+  {
+    "path": "Lab-4/problem.txt",
+    "bytes": 37300,
+    "sha256": "df4d1aafb356de69d8c807ef6df94c1ba59bf844526fc462f615ee67d3a3e822"
+  },
+  {
+    "path": "Lab-5/README.md",
+    "bytes": 15,
+    "sha256": "b01bb76d18ffda55e3359b2b1d6617c2a97d2d70353e8d1e6fb38203f673af32"
+  },
+  {
+    "path": "Lab-5/SOURCE.md",
+    "bytes": 509,
+    "sha256": "bcfee008b1f1a16f546f90db7ae2a3dd9f64ac099b4137ab1eac3d5d0ceff20b"
+  },
+  {
+    "path": "Lab-5/Testing/schedule.c",
+    "bytes": 7832,
+    "sha256": "665c90d53648e60d4c39909fb2f2ed47e3b41e6e7ddae005dbe9b5a4b9fe6f88"
+  },
+  {
+    "path": "Lab-5/Valgrind/Makefile",
+    "bytes": 165,
+    "sha256": "bc1ef0d1bac1118b8c573f9f06f89f66f7b3a85cd3edfb4311fa24165e35fa00"
+  },
+  {
+    "path": "Lab-5/Valgrind/leak.c",
+    "bytes": 1523,
+    "sha256": "58eed83f503ddabb83d5745acce9862487402e1c8631f3fd191af4077c9f82ac"
+  },
+  {
+    "path": "Lab-5/Valgrind/leak_types.c",
+    "bytes": 487,
+    "sha256": "126f618f1231b1846421ab650324111c3190c2a2de9a1fc4c0de1ec7f10f8978"
+  },
+  {
+    "path": "Lab-5/Valgrind/list.c",
+    "bytes": 878,
+    "sha256": "1d15b6e3f6f5548afab20cf7d9a4428e64e91aee27edf4497bead942d343d8cd"
+  },
+  {
+    "path": "Lab-5/Valgrind/log.c",
+    "bytes": 1672,
+    "sha256": "b450a117adae0d6dab4fad22d5e6a21f706d0511ec2625834a0004d7c844c185"
+  },
+  {
+    "path": "Lab-5/Valgrind/losing_track.c",
+    "bytes": 1081,
+    "sha256": "ba3830657b533a3968683425bf19707ac7efe0e83c1d9e670f8fc64ee81d2654"
+  },
+  {
+    "path": "Lab-5/Valgrind/memory_errors.c",
+    "bytes": 696,
+    "sha256": "51e19ab5739e23b6a5cc4b9f7a972904d0e2538bfaf35b8f66721444865b1afc"
+  },
+  {
+    "path": "Lab-5/Valgrind/writesong.c",
+    "bytes": 235,
+    "sha256": "6578389b8058dc09b15eea4596e2c2de078b57733707a8b6c03e18f8849aaf35"
+  },
+  {
+    "path": "Lab-5/ieng6-extra/Valgrind/mysong.txt",
+    "bytes": 829,
+    "sha256": "cb326c2a9516d554d2253f3c442073ef7b8566da7582c97cf1b22ad7d9b63476"
+  },
+  {
+    "path": "Lab-6/Makefile",
+    "bytes": 108,
+    "sha256": "1ba6cda1a634ce6b93ea7da753d658896112beeb12ec5f6699171f49c61dbfe6"
+  },
+  {
+    "path": "Lab-6/README.md",
+    "bytes": 14,
+    "sha256": "8e11bc8c6e04fa82ec392174c43a4b6e85594c91cc911d78669c975c0964293c"
+  },
+  {
+    "path": "Lab-6/SOURCE.md",
+    "bytes": 494,
+    "sha256": "1c3010079553cfaaaea76f53f45c3734f2d37b5369cfc886a3baf71ffba2b1ea"
+  },
+  {
+    "path": "Lab-6/part0/Makefile",
+    "bytes": 344,
+    "sha256": "593e53bb95205266dbd1837122e2e7a4d0387252a13a10e811e617133dec683c"
+  },
+  {
+    "path": "Lab-6/part1/Makefile",
+    "bytes": 136,
+    "sha256": "ba620ee17bca8b11e4150f51c1f5a05498944af3156a7aebbdfe532ab03a9f88"
+  },
+  {
+    "path": "Lab-6/part1/program.c",
+    "bytes": 110,
+    "sha256": "9d1f4b24dfa08ef6a388631f71f551a8e24df3ae296663175baec35eb1d75b2a"
+  },
+  {
+    "path": "Lab-6/part2/Makefile",
+    "bytes": 249,
+    "sha256": "50ed450e91886c543fe14d0f19a71530265e0c707c54a8555fb1ada87949a4ab"
+  },
+  {
+    "path": "Lab-6/part2/program1.c",
+    "bytes": 113,
+    "sha256": "8a2e914eff8b158f0d338346eafcdad9cf9338223702804d2a9f5e3caf1e3c21"
+  },
+  {
+    "path": "Lab-6/part2/program2.c",
+    "bytes": 113,
+    "sha256": "31ac626013df7eb42ef7406337dbda33a3b331208095e0d87120ee6ae06bd28c"
+  },
+  {
+    "path": "Lab-6/part2/program3.c",
+    "bytes": 113,
+    "sha256": "36c44ec353b8f4e004dc8d544787514793e7b8c2c323f9f7539f573ccd339b4d"
+  },
+  {
+    "path": "Lab-6/part3/Makefile",
+    "bytes": 308,
+    "sha256": "bce6b0d758bc46c4008dd8539c2f84c224f90ff7f34a4708f77181252c7a60a3"
+  },
+  {
+    "path": "Lab-6/part3/adders.c",
+    "bytes": 3966772,
+    "sha256": "40071d6fd06ce2621e88dcd324857e32ec6fa22f3c9f03a1ef4d15a387b6ca98"
+  },
+  {
+    "path": "Lab-6/part3/adders.h",
+    "bytes": 70,
+    "sha256": "07761d4a58e5d9fad08aeeec09165c7075fdc6886cc97c3d592ecebbe92000bd"
+  },
+  {
+    "path": "Lab-6/part3/main.c",
+    "bytes": 95,
+    "sha256": "8ce8bc92640a5ed0d5ffd296b75ceb61fe277abf56fc698c8650dda045d7eab4"
+  },
+  {
+    "path": "Lab-6/part3/one_million_functions/main.c",
+    "bytes": 96,
+    "sha256": "6bf6b660725693a6e64431156d80846a93b7b51a01ddb4f6242e414fa632ce87"
+  },
+  {
+    "path": "Lab-6/part3/one_million_functions/million.c",
+    "bytes": 82666752,
+    "sha256": "7ecccff45c4881e283cd12502dca6dd42933336a8e1d731e335f5af09b4e9882"
+  },
+  {
+    "path": "Lab-6/part3/one_million_functions/million.h",
+    "bytes": 73,
+    "sha256": "56f3136783ac967e396ad5dc14aa7a1bf14ac1c7b6b479abb656a499ee427ac5"
+  },
+  {
+    "path": "Lab-6/part3/one_million_functions/out.txt",
+    "bytes": 20,
+    "sha256": "8050859a08f4584e75c8ccf19d328807ea386ecc70fea2c566990add2f18afa1"
+  },
+  {
+    "path": "Lab-6/part3/one_million_functions/script.sh",
+    "bytes": 216,
+    "sha256": "cb72e471f704a7be150535229011d0ce7eb18716be4db3969793cb7ed1fba03a"
+  },
+  {
+    "path": "Lab-6/part4/Makefile",
+    "bytes": 539,
+    "sha256": "018abefa3f95604f7b86844cf504630daee1496fc4fcb123ff1cb2bdc093707a"
+  },
+  {
+    "path": "Lab-6/part4/info.c",
+    "bytes": 283,
+    "sha256": "790b785027e8b6edaf4ffa384d4432950f46e082b0df824845643b8c6d1670a2"
+  },
+  {
+    "path": "Lab-6/part4/info.h",
+    "bytes": 41,
+    "sha256": "811ee71d7207bd0af706717f0b3ff9358a5b3c26156ab70d6439b87aa89c144e"
+  },
+  {
+    "path": "Lab-6/part4/person.c",
+    "bytes": 131,
+    "sha256": "8cf62a2d78a5bc162ffdf76f02db278c82a302ab71b35b99aa7dfa06b3982a17"
+  },
+  {
+    "path": "Lab-6/part4/person.h",
+    "bytes": 173,
+    "sha256": "b9c6f33540f3c45272270bef9ce95c4c77c6436453bd10ec3619e03637cd761b"
+  },
+  {
+    "path": "Lab-6/part4/test.c",
+    "bytes": 159,
+    "sha256": "d4a475cb8ef7040cefaadd618da890d9f6db17700eafa9ee3a4344e33ccee15f"
+  },
+  {
+    "path": "Lab-6/search.c",
+    "bytes": 1066,
+    "sha256": "05b5d4704311f40291a61f9d73757275002ce025e95e4ff35c3fdf4545aef548"
+  },
+  {
+    "path": "Lab-6/structs-warmup/Makefile",
+    "bytes": 185,
+    "sha256": "f136b33fbcfaa9f77d886d6eddbf7b308c2f772787b5867f3cb4d5df80c4dcc6"
+  },
+  {
+    "path": "Lab-6/structs-warmup/alignment.c",
+    "bytes": 430,
+    "sha256": "6404e2b3b043378a1748b17fac4ad510fbf858b3c807f28e667fc049f82642a9"
+  },
+  {
+    "path": "Lab-6/structs-warmup/sizes.c",
+    "bytes": 245,
+    "sha256": "235db4b848ec11fe3e5714204a317a1061b0f03bab3056f2d4085387e6957334"
+  },
+  {
+    "path": "Lab-6/structs-warmup/structs.h",
+    "bytes": 144,
+    "sha256": "6a3d9080557f8044ac2a4058bc0cafd845157eb051db29963d3076f5771c3cbb"
+  },
+  {
+    "path": "Lab-7/CREDITS.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-7/SOURCE.md",
+    "bytes": 501,
+    "sha256": "46571c759ef5cb670b08b4e07387b70ad0d81c5ef7187dfd292804d95b25361b"
+  },
+  {
+    "path": "Lab-7/gradebook/comment.txt",
+    "bytes": 49,
+    "sha256": "36f0a52877f80ca509d79bc7d66de0a156ce5ab5ce293209f5f9a50e1497da5d"
+  },
+  {
+    "path": "Lab-7/ieng6-extra/.pokeget.sh",
+    "bytes": 1121,
+    "sha256": "fb19e6fe022e8d821b99ec89d07ffb73e5e572dfecae713592eca171e9eedc26"
+  },
+  {
+    "path": "Lab-7/minihome/Books/Novels/placeholder.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-7/minihome/Books/Short_Stories/placeholder.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "Lab-7/minihome/Books/reset_task_2.sh",
+    "bytes": 543,
+    "sha256": "755cd2b9e873d5bbe38d431f5eb5cfc262e2998e5ad10a6a86899b4acfc22e9f"
+  },
+  {
+    "path": "Lab-7/minihome/Books/task_2.sh",
+    "bytes": 279,
+    "sha256": "56efbef161bcc4709b5fec74e3ec79de9cc3de7dce08f637ecf56442bdf6267e"
+  },
+  {
+    "path": "Lab-7/minihome/Frankenstein.txt",
+    "bytes": 421633,
+    "sha256": "06c37d2c52d208d3d81eb12c3b10b5edbd7728b73554325ddceadbe2fb427e77"
+  },
+  {
+    "path": "Lab-7/minihome/alice.txt",
+    "bytes": 170600,
+    "sha256": "099a615b831c40bca0f435b5ce1007a8c142b7cfbb4623b6900758c2029304b8"
+  },
+  {
+    "path": "Lab-7/minihome/call_of_cthulhu.txt",
+    "bytes": 90811,
+    "sha256": "64dec84e3995ead8d61f044c619f341b6e43e0e314786a86c66f776f95ae900f"
+  },
+  {
+    "path": "Lab-7/minihome/reset_task_1.sh",
+    "bytes": 720,
+    "sha256": "80924c3f07b3911a5c72ba830c32c8c50a24b98b5f251962772a67b18521ba5b"
+  },
+  {
+    "path": "Lab-7/minihome/reset_task_3.sh",
+    "bytes": 64,
+    "sha256": "8349e2d9e6cd563274981625383c31a77d6900df5b2f16fee2f38b08a7c70fb0"
+  },
+  {
+    "path": "Lab-7/minihome/simulate_downloads.sh",
+    "bytes": 746,
+    "sha256": "85b61ab42d291576b96d347004f78c11e9abe124ed19ebc848eb838be18c4983"
+  },
+  {
+    "path": "Lab-7/minihome/task_1.sh",
+    "bytes": 200,
+    "sha256": "fc8bd7d5ea404ab4f41f6f938645733f4759afc4596a416b71761291caf197ed"
+  },
+  {
+    "path": "Lab-7/minihome/task_3.sh",
+    "bytes": 49,
+    "sha256": "6e43630ca22302a63e65d651a619f45e7a7fed45a516d9a6e6e17a9a657db904"
+  },
+  {
+    "path": "Lab-7/minihome/the_star.txt",
+    "bytes": 45005,
+    "sha256": "a85d6d17e4031cc1ec43cc4fc1ef7b54ba260fa387ae4e46d0ec018367b788be"
+  },
+  {
+    "path": "Lab-7/minihome/twelfth_night.txt",
+    "bytes": 136548,
+    "sha256": "e308e811bbecd6cf73027db99b03260bb9324df82033f998a32ecc0ae904db14"
+  },
+  {
+    "path": "Problem-Set-1/Question-1/README.md",
+    "bytes": 250,
+    "sha256": "a22c1ed7457ad6ced789bb46460ca47d63561da7af6e2860d4c30aa080af8434"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem1/bin8_to_dec.c",
+    "bytes": 1023,
+    "sha256": "e8b5d329f5ab3dc3458d3bece5e1c4263d682af6484b6a7d0eda3cb6527015d3"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem1/result.txt",
+    "bytes": 74,
+    "sha256": "7e789e50f6e5b397c3601c68de342a6f0410fabbfebea4fd803ec69dd6ac1365"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem1/small_result.txt",
+    "bytes": 16,
+    "sha256": "a7600655a105454b47d2b53bc0bb326992bf6d03b40a5cfed752661494ab4ae5"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem2/bin_to_dec.c",
+    "bytes": 662,
+    "sha256": "a63ab01039bc85218dfd86ee1adcc4adedc91ed90bfb18bcc2327b51dc45fffc"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem2/result.txt",
+    "bytes": 213,
+    "sha256": "1a616f8c654f391e6210d92a76471f43a8b6764ef4b470f9cd042c760d4c77dc"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem2/small_result.txt",
+    "bytes": 8,
+    "sha256": "e169bdf59fac30d230f7d21be511d04dc8cc61e5edb1d8255758bc220ba3d4c7"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem3/bin_to_dec_signed.c",
+    "bytes": 801,
+    "sha256": "21e124dc1670215093ba7f74ed3f4b499a7adb8a2926578b96c037845efa27df"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem3/result.txt",
+    "bytes": 264,
+    "sha256": "ef610a0af0089dcdf1030a59cfabbee99aa18e6ddd78b0d331a6a670afcd823e"
+  },
+  {
+    "path": "Problem-Set-1/Question-2/problem3/small_result.txt",
+    "bytes": 20,
+    "sha256": "3225701329201e1345b9a790d843acb9c80c1ff02f37332b193c229caddb7246"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem1/result.txt",
+    "bytes": 81,
+    "sha256": "f314b64fc5333d114bf7bc796b75fee51499b6ebee0b00e4068fb5c91778483b"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem1/second_half.c",
+    "bytes": 766,
+    "sha256": "a66e34dbbe6e8c884475a5c02d0364184a40d4229395aa81bafb2fed374a785c"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem1/small_result.txt",
+    "bytes": 22,
+    "sha256": "76c357458e6baf3e2f2e7d60aa79cd87179477921cb3079dd633676513c20a24"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem2/first_half.c",
+    "bytes": 759,
+    "sha256": "1229d0c8d606908a0cbe68f89f01a0825cacbb8f30b3b952a518bb31407d02f0"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem2/result.txt",
+    "bytes": 101,
+    "sha256": "d0554b56777e6aa7ccd72424ce17da344542c204a16ba36421031de16065d904"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem2/small_result.txt",
+    "bytes": 22,
+    "sha256": "0eb9c31671b6e04f2df1a575b0bd66565abcc5e606b66752c61dbe3a5a7ff22f"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem3/result.txt",
+    "bytes": 40,
+    "sha256": "d3ca9a0a72796589ae91f3f2861300c7c9d8af258fcf261ee7edafb192c8df84"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem3/small_result.txt",
+    "bytes": 10,
+    "sha256": "a990da9263f710304005ccf1b347c69e38d10d0932ade13d23790623f547ef1d"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem3/starts_with_10.c",
+    "bytes": 789,
+    "sha256": "08c03a3c63553516c61a17493b7323aa209a56fe7ac4c14ae5b35093ad4adb16"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem4/bitwise_is_even.c",
+    "bytes": 665,
+    "sha256": "c2daf7af1cd9fc8185b7fede214535a694217f7d7f7b34ac4f8208696019ea9d"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem4/result.txt",
+    "bytes": 40,
+    "sha256": "430111385bf73fe6dd0cd0a418557e0acc84d7bf250fe18f3e17b9958f61cf36"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem4/small_result.txt",
+    "bytes": 12,
+    "sha256": "bc4cbbdb7975f8fee268ca8a165f3177fdb4e1310f8dd556d168598e51ecde63"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem5/count_1_bits.c",
+    "bytes": 774,
+    "sha256": "c6c35272eea5418dd57239cf69036e0a2e80a48771d8071b498774b2e4ba4c0a"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem5/result.txt",
+    "bytes": 44,
+    "sha256": "3be551086ae5ac12a82afd36f4d56721144809adfaeba72f3aae165b25b92743"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem5/small_result.txt",
+    "bytes": 15,
+    "sha256": "7850cea93a6436e7f012945c3727744a378aede0c206078c7d5e8a78213e3368"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem6/lowest_n.c",
+    "bytes": 910,
+    "sha256": "136d365d25fa0f3d395377b09dab4b40e627d62dadbafa34e75e36997a7e27bf"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem6/result.txt",
+    "bytes": 220,
+    "sha256": "787cbd9a46479a9b155d074ab570159de6ef5637b2a7414c3ddf47d779c3c756"
+  },
+  {
+    "path": "Problem-Set-1/Question-3/problem6/small_result.txt",
+    "bytes": 44,
+    "sha256": "2e964b2c31c68f0d070da8cabed9a3cd1fce46e01c7c2dbd40783cb23e56b0b5"
+  },
+  {
+    "path": "Problem-Set-1/Question-4/problem1/print_abc_char_and_int.c",
+    "bytes": 582,
+    "sha256": "e7c665f67d28a07edb8248f4ca42971cfb6515afa0ad9e8a6ed84f1f0129a36e"
+  },
+  {
+    "path": "Problem-Set-1/Question-4/problem1/result.txt",
+    "bytes": 5717,
+    "sha256": "bf2b60765b08027eb6c094070d3211fcf6189c7096bd59f8190200b28946a8bb"
+  },
+  {
+    "path": "Problem-Set-1/Question-4/problem1/small_result.txt",
+    "bytes": 43,
+    "sha256": "4c1a10a60ac94f1b96425e7bc2e78f79899a03a0c32ff3eef357e3add696cbbd"
+  },
+  {
+    "path": "Problem-Set-1/Question-4/problem2/print_abc_char_and_int_backwards.c",
+    "bytes": 623,
+    "sha256": "844da17e9012696b527f5b8061df8ed3e3556b61d84f75de457cb89e99cc7231"
+  },
+  {
+    "path": "Problem-Set-1/Question-4/problem2/result.txt",
+    "bytes": 4848,
+    "sha256": "49173480ce2d2082cd00f0d8d8fb74b6bc979cc0632886454756abe97579003f"
+  },
+  {
+    "path": "Problem-Set-1/Question-4/problem2/small_result.txt",
+    "bytes": 36,
+    "sha256": "40b87aafa820ab867b8fd5639f20b473b46c6e51c5768e55fe5a5bedc8529604"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem1/is_ascii.c",
+    "bytes": 530,
+    "sha256": "ede01324a352549669613999e5ed789eb44da1c76429a46ace87a0b6f686b897"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem1/result.txt",
+    "bytes": 1000,
+    "sha256": "70a0dad4289b44fe5cacc15a4cbe2aca1ee647a196cf27fa998479bd610d954b"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem1/small_result.txt",
+    "bytes": 10,
+    "sha256": "f0bb58b5670c607dd8213b9c0179bba72659df2171932d7a1226b84c6e2bfb73"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem2/capitalize_ascii.c",
+    "bytes": 671,
+    "sha256": "8508f8ede54c8df461deff93c71901e421c17f172f46ba8cf738b570f40ce450"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem2/result.txt",
+    "bytes": 5189,
+    "sha256": "fd1ac08ceb4ee4bcd81d2a601f39a5dba2367ffce368163f8c19fc630b779580"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem2/small_result.txt",
+    "bytes": 99,
+    "sha256": "6aaf8068b79c232a8b528d54756e7639e6774ab891ae95f1247b815ec09f391e"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem3/result.txt",
+    "bytes": 5189,
+    "sha256": "5ec21380e47696e6354581d4d5feb7b5bfebf9b274f04f5a9f694048fcb26832"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem3/small_result.txt",
+    "bytes": 99,
+    "sha256": "3ce713b05b62c11d7fd40350c44114846f822dbcd32dd5f4ca5dffc6bdb353cc"
+  },
+  {
+    "path": "Problem-Set-1/Question-5/problem3/to_lowercase.c",
+    "bytes": 659,
+    "sha256": "7762cd8c06500c0c814048532984d2437dfa76d8d4365894e99886766ebfe482"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem1/codepoint_at.c",
+    "bytes": 1378,
+    "sha256": "aba9a529779a0e8f7088e2d5ebc3b2a7ad52171087f8ada77b8fac0b9d79cc76"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem1/result.txt",
+    "bytes": 134,
+    "sha256": "556568c2bc9e03f045ad8e223a55eb3ef8a7645ba8a3b3b6dea260819c2c216a"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem1/small_result.txt",
+    "bytes": 21,
+    "sha256": "cef10bd4d8b251788c3caadf51e0b48ea5c36e29d4474ddf81071cff6bfdba34"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem2/codepoint_size.c",
+    "bytes": 933,
+    "sha256": "03ac53131d96c0ba66ded15d1f5c52d29d7f0f46e5573883df283c5f458afc83"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem2/result.txt",
+    "bytes": 100,
+    "sha256": "41aa9dd36b1d75948dca71fe28341c6d9b6dc73eac9b0fc18048c09771d4293a"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem2/small_result.txt",
+    "bytes": 8,
+    "sha256": "1e94dc573392bb43663f540786fe0f5ee7cdf4417fb7ad3931ad9e3373f1d96b"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem3/result.txt",
+    "bytes": 46,
+    "sha256": "fb0ee43c481b7d9952cc7b3208941f2e6fc33a108c9db7886a460d5c9332e020"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem3/small_result.txt",
+    "bytes": 6,
+    "sha256": "3acf05806f4559e34edc7d4318253e9abb31d59569147c354dc13c4e2d71d5c9"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem3/utf8_strlen.c",
+    "bytes": 974,
+    "sha256": "90cf08e742f2d025c6f49b004dec9c43890b5d94a8ebc587da3c059bd87a905b"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem4/result.txt",
+    "bytes": 195,
+    "sha256": "47cfc0958c16d2cfccdee861135d3762bd00774a56f2ba0f562407708313da7a"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem4/small_result.txt",
+    "bytes": 63,
+    "sha256": "19b0a33b5affd021ff12d2f491cf5a0793a966cb992ca222a2f601c38bf5bbf0"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem4/utf8_substring.c",
+    "bytes": 1273,
+    "sha256": "3ba0f224f1769d7ac7da6b0d2d7e2088c0c443070d7c64255452361719d77b19"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem5/encode_utf8.c",
+    "bytes": 1415,
+    "sha256": "2b8b9ee212e8a3bfabe398c04da7fd73754f959a769f0323504e6396019879ab"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem5/result.txt",
+    "bytes": 338,
+    "sha256": "7235445939c00c1acf2f9267a077620efeb92e44ba8ce917c86a0eee42f12892"
+  },
+  {
+    "path": "Problem-Set-1/Question-6/problem5/small_result.txt",
+    "bytes": 65,
+    "sha256": "a0ad3206bfd5c82793d1951fb07de70cb74eddff42c9542b4890c8e3fbb6d833"
+  },
+  {
+    "path": "Problem-Set-1/Question-7/is_animal_emoji_at.c",
+    "bytes": 1536,
+    "sha256": "e88726c9f793bca3e8e76756d979177aee27354c9b0fc54fecc6d2a8ab1e69aa"
+  },
+  {
+    "path": "Problem-Set-1/Question-7/result.txt",
+    "bytes": 126,
+    "sha256": "207508c662d9fd86ac0958bf07c4b64073282f951cbe3f0519a20f84c7606b4f"
+  },
+  {
+    "path": "Problem-Set-1/Question-7/small_result.txt",
+    "bytes": 64,
+    "sha256": "b38988fad0dc4f5bc934e366f5b19d29e451d051ae0dc79a18c9721389ac937a"
+  },
+  {
+    "path": "Problem-Set-2/Question-1/count_0_bits.c",
+    "bytes": 909,
+    "sha256": "3c9256abeb9b6763361e5fa7c17699946d91be8ebe9867c3dedd95d62cfc58c6"
+  },
+  {
+    "path": "Problem-Set-2/Question-1/result.txt",
+    "bytes": 46,
+    "sha256": "137ec64a0f27627c189c35b97bca1790bc6e9192d5ab917aad221cfc024d1ded"
+  },
+  {
+    "path": "Problem-Set-2/Question-1/small_result.txt",
+    "bytes": 15,
+    "sha256": "0620e9c37be017729428c9e530dae944c868210cc0f461d6d8e383f66e9693c4"
+  },
+  {
+    "path": "Problem-Set-2/Question-2/problem1/convert_hex.c",
+    "bytes": 1040,
+    "sha256": "fad5d4b6ad7eef65441d57507c8fb11cc577f897b7ecea2723740fa3db1e2c91"
+  },
+  {
+    "path": "Problem-Set-2/Question-2/problem1/result.txt",
+    "bytes": 195,
+    "sha256": "7e95750a0eed135f9a465cca462863ae1f861bd0b1758903715c584984bc30f0"
+  },
+  {
+    "path": "Problem-Set-2/Question-2/problem1/small_result.txt",
+    "bytes": 45,
+    "sha256": "a5a9e3d70a6398706d16cb61ca04fac67217796186de6fdeb8f68d99026c1c0b"
+  },
+  {
+    "path": "Problem-Set-2/Question-2/problem2/convert_hex_to_byte.c",
+    "bytes": 1359,
+    "sha256": "7eb0244d0b783a2cba57a4a80ff8be663a75fa99e1661d93fd7358dd18569c61"
+  },
+  {
+    "path": "Problem-Set-2/Question-2/problem2/result.txt",
+    "bytes": 308,
+    "sha256": "5b68f15a7e67fa8d619f8b7f90b08cf5db563fc6548fe5e2d8187c8b07bc9a18"
+  },
+  {
+    "path": "Problem-Set-2/Question-2/problem2/small_result.txt",
+    "bytes": 69,
+    "sha256": "6e59ffea39f05c2030fa3daf1f7d05425b8ba8881c5656f57b2f89f9b088fe37"
+  },
+  {
+    "path": "Problem-Set-2/Question-3/problem1/exclaim.c",
+    "bytes": 178,
+    "sha256": "ca0fb1ac88573887dbcd5b8d4828bbc4a11f2756112f739432260fc985a5650c"
+  },
+  {
+    "path": "Problem-Set-2/Question-3/problem2/count_lines.c",
+    "bytes": 353,
+    "sha256": "80bd8f52543a2b2f0ddf78565a396e657611e6231103e2ccf929bbc6aeb1b450"
+  },
+  {
+    "path": "Problem-Set-2/Question-3/problem2/result.txt",
+    "bytes": 2,
+    "sha256": "1a6562590ef19d1045d06c4055742d38288e9e6dcd71ccde5cee80f1d5a774eb"
+  },
+  {
+    "path": "Problem-Set-2/Question-3/problem2/small_result.txt",
+    "bytes": 1,
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "path": "Problem-Set-2/Question-3/problem3/count_occurrences.c",
+    "bytes": 946,
+    "sha256": "264647bbfe148f9b1bc7853b0d9e24840118789b93d555dc28df7e23847aeb5d"
+  },
+  {
+    "path": "Problem-Set-2/Question-3/problem3/result.txt",
+    "bytes": 48,
+    "sha256": "f9ba741c1fa811cf1c7fd029d16ec5f205b9b063192065b3f92648a796304a84"
+  },
+  {
+    "path": "Problem-Set-2/Question-3/problem3/small_result.txt",
+    "bytes": 16,
+    "sha256": "548a5b3ba681a5d065b0c99121e9dd0407a9d0fc371f6fbdd95a1518494af537"
+  },
+  {
+    "path": "Problem-Set-2/Question-3/problem4/is_ascii.c",
+    "bytes": 383,
+    "sha256": "85356846a1f6ef76241604f09862275c388e298b2148b8cf74246ebf0856fb8b"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem1/result.txt",
+    "bytes": 141,
+    "sha256": "84645ea70ea9b2d1d6f94b7bd00f1474a4882bbbd6f1f67dc70bd3026a6c6fae"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem1/reverse_string.c",
+    "bytes": 746,
+    "sha256": "94fc38baf728d98c87cfbf9bcb7b6124c77befd60f4d36b09f7849826af2561d"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem1/small_result.txt",
+    "bytes": 35,
+    "sha256": "1cfa1f6f09e3e0b4a375cf76272c6b2742620858a3c524c35515d404384b61ca"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem2/is_palindrome.c",
+    "bytes": 856,
+    "sha256": "7ab8d570e042a9cd9c6caacbcf37d21864c0756b82f74b24b00e4252bd4deeb0"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem2/result.txt",
+    "bytes": 46,
+    "sha256": "d100bc19ccab649b752b702539ef69e3b46d169e8966a66098bfe936c8ace4d5"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem2/small_result.txt",
+    "bytes": 10,
+    "sha256": "3bc65713cc98070e8b2eb2239a7bffa30257bc479d42589a300ad9aa8d5b5570"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem3/result.txt",
+    "bytes": 130,
+    "sha256": "df85e91764169fceda17bc2f944cc2ba05dd4ec76b795f47e4fa9d422e049841"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem3/small_result.txt",
+    "bytes": 34,
+    "sha256": "d1417b1398f3af7e2230d92e4ddbf1bdc75130d79f54cb4de1301dc39969a442"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem3/string_cap_match.c",
+    "bytes": 1344,
+    "sha256": "475095ee98e2d77f7e8c08372e8f92265ca473d878c78404feb70ea7cdb65ce8"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem4/cap_variants.c",
+    "bytes": 1004,
+    "sha256": "9f9ba0fb4dfc9b175b89c211e0f83bb9f9613a79d4866c5973f708c09f552cf2"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem4/result.txt",
+    "bytes": 506,
+    "sha256": "8cbb6e4586fbb9bfadc0aaf2cee4d3a079fa9d37cff813220dee1a0c5580630b"
+  },
+  {
+    "path": "Problem-Set-2/Question-4/problem4/small_result.txt",
+    "bytes": 74,
+    "sha256": "08fbc63180bea9d43b881a8a15dc8c76683f070aee2d5d5a56c9ad860761f0bc"
+  },
+  {
+    "path": "Problem-Set-2/Question-5/problem1/result.txt",
+    "bytes": 153,
+    "sha256": "4b2c9f7a0e544a45b1d305f2cf37f6f921eb87a59568f00ecc1b1c3ef634c661"
+  },
+  {
+    "path": "Problem-Set-2/Question-5/problem1/small_result.txt",
+    "bytes": 51,
+    "sha256": "0d32d2ba67faf49abee54038042b114e92550b2fc00e3f8746ff3040c32ec634"
+  },
+  {
+    "path": "Problem-Set-2/Question-5/problem1/strip_line_comments.c",
+    "bytes": 645,
+    "sha256": "6f79d335a5468d49f22a4415deff1b246155829652f62f5bb9af386432e7ba81"
+  },
+  {
+    "path": "Problem-Set-2/Question-5/problem2/parse_escapes.c",
+    "bytes": 1279,
+    "sha256": "26af14fc8624d033f5a6e5600915f3d5886c51098b11dfeb72aa89dfd2981edc"
+  },
+  {
+    "path": "Problem-Set-2/Question-5/problem2/result.txt",
+    "bytes": 164,
+    "sha256": "ffe97255473d44c39445bf51bfe447e352aacbb0389c379ff846655843659718"
+  },
+  {
+    "path": "Problem-Set-2/Question-5/problem2/small_result.txt",
+    "bytes": 54,
+    "sha256": "1d0b5a2bc9006155d1db7003509ea27817be73b89c35469e62b481badeaed892"
+  },
+  {
+    "path": "Problem-Set-2/Question-6/problem1/sha256_arg.c",
+    "bytes": 629,
+    "sha256": "1c56975eefae5977380ee179a41ce507ac8cf209471418cf163b9b2ac67f1ca8"
+  },
+  {
+    "path": "Problem-Set-2/Question-6/problem2/result.txt",
+    "bytes": 1365,
+    "sha256": "c986bc3e71c0d077fcdf5a5fc46ac1b4148e07477c72103af179879b6ccc76e4"
+  },
+  {
+    "path": "Problem-Set-2/Question-6/problem2/sha256_stdin.c",
+    "bytes": 789,
+    "sha256": "2323e78c3a73f7da7c08a4e732c790874c7de0d2942b80f587db8594718d93c3"
+  },
+  {
+    "path": "Problem-Set-2/Question-6/problem2/small_result.txt",
+    "bytes": 195,
+    "sha256": "926601cfc78ec9aacb57de1cd68ee9216207ded429aab237d2ed27d14f93d07a"
+  },
+  {
+    "path": "Problem-Set-2/Question-6/problem3/result.txt",
+    "bytes": 44,
+    "sha256": "bad543f36dd50d4ecf0f9541e4de214c42b1ffa2af4b3e4c6007b4460bee4df1"
+  },
+  {
+    "path": "Problem-Set-2/Question-6/problem3/shacheck.c",
+    "bytes": 1864,
+    "sha256": "0d886881d611a9914ba305f067bea09a18568f7fa1588219963ce6a9931af78d"
+  },
+  {
+    "path": "Problem-Set-2/Question-6/problem3/small_result.txt",
+    "bytes": 17,
+    "sha256": "9bd8aca0d31709601871265000810b22fa7faf79684c5203bd81b949a542fbd2"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem1/result.txt",
+    "bytes": 997,
+    "sha256": "3412178b4f76751b3e743a421f5aff5c3508ce116bd4e6bdbe6a88297f77156c"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem1/small_result.txt",
+    "bytes": 147,
+    "sha256": "c0b989e8de4a3dccc1fd9ee3a49ba6c34db0565b9c828fc477c1bdaa46698db3"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem1/split_space.c",
+    "bytes": 721,
+    "sha256": "e0af1c2650e783fbb0ad60e3a986283946ad17c2922a6ed59c8b005797e6c08e"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem2/extract_second.c",
+    "bytes": 686,
+    "sha256": "3be0190e186ee5ee851de16c1b2d3e64632bfbf02cd38e129c153f6383d03bc5"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem2/result.txt",
+    "bytes": 178,
+    "sha256": "6b7569e1269b548bae636a0b84e8dc87733a559fa71188eaa60125cad8c914e9"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem2/small_result.txt",
+    "bytes": 26,
+    "sha256": "7434805c9dfa2f3fc7e7c04de846b102ff1d69461d58877023906017b6f94743"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem3/print_parts.c",
+    "bytes": 764,
+    "sha256": "2a73a3b877ffabb2343a3d75042dc697898ec107fe0a8ed589eedfb01ca69ed4"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem3/result.txt",
+    "bytes": 1308,
+    "sha256": "8c43126a4da6434e826ecfe89883d7d56b91614dd62591a2e48093333384ffac"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem3/small_result.txt",
+    "bytes": 43,
+    "sha256": "77a5dca5067ebb2e958ed8ab3a81c34543df5e8396654ed5a906a5624f94ed70"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem4/result.txt",
+    "bytes": 312,
+    "sha256": "147ba71c85f59c9b0ea78e73ba5cfd10e4f65a313665a1650bbcd8594b7ff87d"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem4/small_result.txt",
+    "bytes": 15,
+    "sha256": "c2eb7d2f4a35cc1c143101c172ead7c711497d821c5cc2c63a7a886ca165ef23"
+  },
+  {
+    "path": "Problem-Set-3/Question-1/problem4/trim_end_spaces.c",
+    "bytes": 754,
+    "sha256": "45f34b8f21c0b77c5592d96dca463b341b1a900ac3a849a9a17a7504240299f7"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem1/find_in_file.c",
+    "bytes": 1127,
+    "sha256": "b0f3663894839dfcd09df6704a3a872b85e3c714051089e1e687479b7bd2e2b5"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem1/result.txt",
+    "bytes": 60,
+    "sha256": "fbd6c29c95fdfab7fa6610c9a9ffd7c05c884596389d5c0bcfa4c77a118a8817"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem1/small_result.txt",
+    "bytes": 6,
+    "sha256": "88fb1949a818a3ac0a5721e13e120088287f89eeaeff214e69a16587b6b159b9"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem2/files/file1.txt",
+    "bytes": 558,
+    "sha256": "4eb0f90ba03255ab9c1722964e5db0a868e6545f06bda66c383bbdb3f21d78ec"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem2/files/file2.txt",
+    "bytes": 2175,
+    "sha256": "11549ad9cc76b6875ce9ce9df71214130bc4ceea73ffbd5fcc7d50d8b1a9b778"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem2/files/file3.txt",
+    "bytes": 5575,
+    "sha256": "12b84f659c80c8b5efcc0e5a7fbdd58e35d2866080be3098a51af8ffc6c6a647"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem2/get_line.c",
+    "bytes": 2260,
+    "sha256": "01bc005bebd8676738645f279000bf685fc3851e787adc2e99bd5a354b2f443d"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem2/result.txt",
+    "bytes": 292,
+    "sha256": "56d5e51323733ee2bd9ce07adb7b6dab817ef261beb83210cc2c5e6e92598f0f"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem2/small_result.txt",
+    "bytes": 23,
+    "sha256": "cd9cc616fef03856aa2027115041acf8f5c18541de73e74aaeffe93c536dcfa2"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem3/result.txt",
+    "bytes": 462,
+    "sha256": "70b56262d0a06cf15e2138474cc400249ccc38d0571c9aa6ebb5e839c8ba6769"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem3/small_result.txt",
+    "bytes": 37,
+    "sha256": "14bf25b3f58054aff0559781d4eeffa8523e6c09432436d758e2f93e12ec7563"
+  },
+  {
+    "path": "Problem-Set-3/Question-2/problem3/write_with_line_numbers.c",
+    "bytes": 1529,
+    "sha256": "72689a5cc44007d6268f9c1c14a331352ac904c638b076c4fab89bacbfe8b84d"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem1/test_perror.c",
+    "bytes": 1061,
+    "sha256": "88078e9e690827fdd3aa807c616d516b33bc4b78ec77aadd55bcbf3ef14ac384"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem2/fork_and_wait.c",
+    "bytes": 1148,
+    "sha256": "b3eceb6bd3a359624a6d20c543bf286c0f78be53e19d9784dc838ac6ba8c9b98"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem3/write_history.c",
+    "bytes": 812,
+    "sha256": "6b53287ffe8b424c2400fe0d943d36074b095206f4a4b63a4a13cbe4b588c80f"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem4/read_history.c",
+    "bytes": 720,
+    "sha256": "19f7d43781e3494de4d6061e31bb34aaedc636214f6648b592c3b0d0dca4937e"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem5/run_cd.c",
+    "bytes": 960,
+    "sha256": "c726f523b6adc5b1b8d044e81f634e9680834a7c7986eebc64b894ad77eb52eb"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem6/run_exit.c",
+    "bytes": 739,
+    "sha256": "298ce5db3c5e85715e06f6948bcc23cc27d268f69501d94624a468f9f206b4c7"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem7/prompt_command_loop.c",
+    "bytes": 879,
+    "sha256": "330e4c24ec71fa7201b1e56ff0427bebe4358cc070b97adb11335eafdb046bb6"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem7/result.txt",
+    "bytes": 275,
+    "sha256": "d985e4ef9481b557c4569e6725c7e775c2789e45e502798a6464b63f0dd62614"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem7/small_result.txt",
+    "bytes": 129,
+    "sha256": "268875e93a5cba37b15267bc4d3fbaf5b56c53f9790abd824308069cc9d1af1a"
+  },
+  {
+    "path": "Problem-Set-3/Question-3/problem8/run_ls.c",
+    "bytes": 664,
+    "sha256": "e0198407efaf2777f5b2d040085575e32564223986a11bad087c04ed88cfbb63"
+  },
+  {
+    "path": "Problem-Set-3/Question-4/problem1/print_parts_tabs.c",
+    "bytes": 707,
+    "sha256": "9d00434bdd3f88b2a57e1423024995f467160afe96e80161e1119bb58f01f9e3"
+  },
+  {
+    "path": "Problem-Set-3/Question-4/problem1/result.txt",
+    "bytes": 251,
+    "sha256": "cec01edb49dcb0d09a24b47f52125b076a1777dd7c59b164b65df7bc48a5c11d"
+  },
+  {
+    "path": "Problem-Set-3/Question-4/problem1/small_result.txt",
+    "bytes": 101,
+    "sha256": "28f604fcca02be840653eeb634bd6574e49edc63c5f22e0470b98d4685559300"
+  },
+  {
+    "path": "Problem-Set-3/Question-4/problem2/tokenize_args.c",
+    "bytes": 1023,
+    "sha256": "1b54111eaaa41bb981e0f857cf989bb2ce9e81d6b1bc0d9e895a07655d7f024a"
+  },
+  {
+    "path": "Problem-Set-3/Question-4/problem3/parse_flags.c",
+    "bytes": 1479,
+    "sha256": "9e9b754eb6c5c3f2dbcc368f9acfda89a61bc21af1dcd881e6724b046e254167"
+  },
+  {
+    "path": "Problem-Set-3/Question-4/problem4/parse_args.c",
+    "bytes": 1149,
+    "sha256": "384dedca80e61ea9e6efa67710d9bc48340a6e1281bd1a776d7afee83093b9b7"
+  },
+  {
+    "path": "Problem-Set-3/Question-4/problem4/result.txt",
+    "bytes": 2259,
+    "sha256": "18b9f74e9e77439bb7f857c2c3a870635ea7729cd088a52ed2788e7e0e083ed8"
+  },
+  {
+    "path": "Problem-Set-3/Question-4/problem4/small_result.txt",
+    "bytes": 166,
+    "sha256": "e36a26836e1b5344d7a464d29b3d52e1f7e37dd99d615c759bb6ca63a5bf352c"
+  },
+  {
+    "path": "Problem-Set-3/Question-5/README.md",
+    "bytes": 224,
+    "sha256": "6c0cad7d39e246746fc0518fe514ea494a5271d3e20a5225df746762148b9bc9"
+  },
+  {
+    "path": "Project-1/CREDITS.txt",
+    "bytes": 79,
+    "sha256": "e8ef05fa271daa264dd96d44de57e81bf132835d6f72457c16e48eec14a7a11b"
+  },
+  {
+    "path": "Project-1/tests/invalid_and_uppercased_ascii_test.txt",
+    "bytes": 6,
+    "sha256": "3ab3795fca239151a148ccb991267982b1c6e30d426c30dff3ba2d242cb8c5a1"
+  },
+  {
+    "path": "Project-1/tests/is_valid_ascii_test.txt",
+    "bytes": 2,
+    "sha256": "87428fc522803d31065e7bce3cf03fe475096631e5e07bbd7a0fde60c4cf25c7"
+  },
+  {
+    "path": "Project-1/tests/utf8test.txt",
+    "bytes": 27,
+    "sha256": "80de4a63ae2e664ab913aa4c20c82159063e2cf8aede98a22fc01bb85d9617f9"
+  },
+  {
+    "path": "Project-1/utf8_analyzer.c",
+    "bytes": 4866,
+    "sha256": "70c0e95e4cba26b30757350a6cd6663347db2fd57779728d6cc4dffd1d6553e8"
+  },
+  {
+    "path": "Project-2/CREDITS.txt",
+    "bytes": 79,
+    "sha256": "e8ef05fa271daa264dd96d44de57e81bf132835d6f72457c16e48eec14a7a11b"
+  },
+  {
+    "path": "Project-2/pwcrack.c",
+    "bytes": 1914,
+    "sha256": "b8e1b7bc0eb8f33e81f604ba3cb1e97177fdf1685d69cdb3b0e83972f4c806d9"
+  },
+  {
+    "path": "Project-3/CREDITS.txt",
+    "bytes": 125,
+    "sha256": "aa0c775211bd0326e298494bf867d0fe6e29bb32dbd410f9fced45eb1e553256"
+  },
+  {
+    "path": "Project-3/seash.c",
+    "bytes": 5565,
+    "sha256": "a838024a5df03e263a15593d2df1f80a0b64006142f682f117d54e6733ca2c8d"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3270,
+    "sha256": "4ebd735200f0d15e09c77dd591f4bdd5ed33cacdc1c7c6a7d721711f4871f468"
+  },
+  {
+    "path": "SOURCES.json",
+    "bytes": 4481,
+    "sha256": "df525e27a0fd2c04689ca1647f32cc9ba92c0314f042100f4b0027f27fe06965"
+  },
+  {
+    "path": "SYNTAX-CHECK.json",
+    "bytes": 10511,
+    "sha256": "12e813080219c4ba6d78e7d96140e2fe84d81c36be88a8d42f23c11623f46b74"
+  }
+]

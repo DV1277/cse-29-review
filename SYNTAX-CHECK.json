@@ -1,0 +1,447 @@
+[
+  {
+    "file": "Problem-Set-1/Question-2/problem3/bin_to_dec_signed.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-2/problem2/bin_to_dec.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-2/problem1/bin8_to_dec.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-3/problem6/lowest_n.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-3/problem5/count_1_bits.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-3/problem4/bitwise_is_even.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-3/problem3/starts_with_10.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-3/problem2/first_half.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-3/problem1/second_half.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-4/problem2/print_abc_char_and_int_backwards.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-4/problem1/print_abc_char_and_int.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-5/problem3/to_lowercase.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-5/problem2/capitalize_ascii.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-5/problem1/is_ascii.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-6/problem5/encode_utf8.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-6/problem4/utf8_substring.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-6/problem3/utf8_strlen.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-6/problem2/codepoint_size.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-6/problem1/codepoint_at.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-1/Question-7/is_animal_emoji_at.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-1/problem4/trim_end_spaces.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-1/problem3/print_parts.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-1/problem2/extract_second.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-1/problem1/split_space.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-2/problem3/write_with_line_numbers.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-2/problem2/get_line.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-2/problem1/find_in_file.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-3/problem8/run_ls.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-3/problem7/prompt_command_loop.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-3/problem6/run_exit.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-3/problem5/run_cd.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-3/problem4/read_history.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-3/problem3/write_history.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-3/problem2/fork_and_wait.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-3/problem1/test_perror.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-4/problem4/parse_args.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-4/problem3/parse_flags.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-4/problem2/tokenize_args.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-3/Question-4/problem1/print_parts_tabs.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-1/count_0_bits.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-2/problem2/convert_hex_to_byte.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-2/problem1/convert_hex.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-3/problem4/is_ascii.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-3/problem3/count_occurrences.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-3/problem2/count_lines.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-3/problem1/exclaim.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-4/problem4/cap_variants.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-4/problem3/string_cap_match.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-4/problem2/is_palindrome.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-4/problem1/reverse_string.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-5/problem2/parse_escapes.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-5/problem1/strip_line_comments.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Problem-Set-2/Question-6/problem3/shacheck.c",
+    "status": "passed",
+    "diagnostics": "Passed gcc -fsyntax-only on ieng6, where OpenSSL headers are installed."
+  },
+  {
+    "file": "Problem-Set-2/Question-6/problem2/sha256_stdin.c",
+    "status": "passed",
+    "diagnostics": "Passed gcc -fsyntax-only on ieng6, where OpenSSL headers are installed."
+  },
+  {
+    "file": "Problem-Set-2/Question-6/problem1/sha256_arg.c",
+    "status": "passed",
+    "diagnostics": "Passed gcc -fsyntax-only on ieng6, where OpenSSL headers are installed."
+  },
+  {
+    "file": "Project-1/utf8_analyzer.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Project-3/seash.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/search.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/structs-warmup/sizes.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/structs-warmup/alignment.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part1/program.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part2/program3.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part2/program1.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part2/program2.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part3/main.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part3/adders.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part3/one_million_functions/main.c",
+    "status": "passed",
+    "diagnostics": "Lab-6/part3/one_million_functions/main.c: In function \u2018main\u2019:\nLab-6/part3/one_million_functions/main.c:4:23: warning: implicit declaration of function \u2018run_adders\u2019 [-Wimplicit-function-declaration]\n    4 |         printf(\"%d\\n\",run_adders(0));\n      |                       ^~~~~~~~~~\n"
+  },
+  {
+    "file": "Lab-6/part3/one_million_functions/million.c",
+    "status": "resource_limit",
+    "diagnostics": "Generated stress-test file: compiler was terminated while checking this 83 MB file. All original source preserved."
+  },
+  {
+    "file": "Lab-6/part4/test.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part4/person.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-6/part4/info.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Project-2/pwcrack.c",
+    "status": "passed",
+    "diagnostics": "Passed gcc -fsyntax-only on ieng6, where OpenSSL headers are installed."
+  },
+  {
+    "file": "Lab-4/problem.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-5/Testing/schedule.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-5/Valgrind/memory_errors.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-5/Valgrind/leak_types.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-5/Valgrind/list.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-5/Valgrind/writesong.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-5/Valgrind/log.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-5/Valgrind/leak.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-5/Valgrind/losing_track.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-3/Wall/hitawall.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-3/Wall/wallyandeve.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-3/gdb/buggy_alt_caps.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-3/gdb/charshift.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-3/gdb/index_of_E.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-3/gdb/buggy_atob.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-3/gdb/count_vowels.c",
+    "status": "passed",
+    "diagnostics": ""
+  },
+  {
+    "file": "Lab-3/gdb/buggy_reverse.c",
+    "status": "passed",
+    "diagnostics": ""
+  }
+]

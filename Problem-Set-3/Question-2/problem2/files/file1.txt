@@ -1,0 +1,36 @@
+cat cse29.txt
+mv fileA.txt dir/
+df -h
+ls -l ./
+echo 'quoted arg'
+unset VAR
+sort list.txt
+head -n 5 file.txt
+echo hello world
+whoami
+echo $HOME
+ps aux
+exit
+pwd
+env
+man ls
+grep pattern file.txt
+cat file.txt
+diff file1 file2
+command_with_long_name arg1 arg2 arg3 arg4 arg5
+cp file1.txt file2.txt
+export VAR=value
+wc -l file.txt
+tail -f logfile.log
+find . -name '*.c'
+tr a-z A-Z < input.txt
+uptime
+tar -czf archive.tar.gz folder/
+rm -rf /tmp/test
+uniq words.txt
+mkdir new_folder
+sleep 10
+du -sh *
+touch file1 file2 file3
+gcc -o program main.c
+chmod 755 script.sh

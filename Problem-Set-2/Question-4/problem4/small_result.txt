@@ -1,0 +1,13 @@
+aBC
+AbC
+ABc
+test
+TEst
+TeSt
+TesT
+pepPer
+PEpPer
+PePPer
+Pepper
+PepPEr
+PepPeR

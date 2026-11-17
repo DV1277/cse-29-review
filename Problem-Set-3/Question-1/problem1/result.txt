@@ -1,0 +1,46 @@
+Original string: TrailingSpace
+Split string: 
+Original string: OneWord
+Split string: OneWord
+Original string: Hello
+Split string: world test
+Original string: null
+Split string: None
+Original string: emoji
+Split string: 😃
+Original string: Hello
+Split string: world 
+Original string: mixed
+Split string: 混合
+Original string: Hi
+Split string: there
+Original string: Hello123
+Split string: world456
+Original string: a
+Split string: 
+Original string: 
+Split string: 
+Original string: 你好
+Split string: 世界
+Original string: Hello
+Split string: world
+Original string: Hello
+Split string: world this is Python
+Original string: CSE
+Split string: 29 is the best class!
+Original string: a
+Split string: b
+Original string: 123
+Split string: 456
+Original string: Hello
+Split string: 
+Original string: Hello
+Split string: world this is
+Original string: a
+Split string: a
+Original string: test
+Split string: 😃 emoji
+Original string: true
+Split string: false
+Original string: foo
+Split string: bar

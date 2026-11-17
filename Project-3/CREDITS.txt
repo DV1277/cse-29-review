@@ -1,0 +1,1 @@
+I used the help of AI in some places to make my code for the methods in the problem set, as per the spec of the PA write-up 

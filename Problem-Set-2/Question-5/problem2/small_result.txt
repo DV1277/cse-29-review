@@ -1,0 +1,6 @@
+hello
+world
+test	tab
+quote"here
+backslash\test
+simple

@@ -1,0 +1,15 @@
+0: ls
+1: -l
+2: ./
+0: a
+1: b
+2: c
+0: hello
+1: world
+2: this
+3: is
+4: c
+0: both
+0: one
+1: two
+2: three

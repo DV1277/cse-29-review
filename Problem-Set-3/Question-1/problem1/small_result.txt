@@ -1,0 +1,6 @@
+Original string: Hello
+Split string: world
+Original string: CSE
+Split string: 29 is the best class!
+Original string: OneWord
+Split string: OneWord

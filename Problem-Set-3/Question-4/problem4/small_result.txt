@@ -1,0 +1,10 @@
+result[0]: 'ls'
+result[1]: '-l'
+result[2]: './'
+result[3]: NULL
+result[0]: 'echo'
+result[1]: 'a'
+result[2]: 'b'
+result[3]: NULL
+result[0]: 'vimtutor'
+result[1]: NULL

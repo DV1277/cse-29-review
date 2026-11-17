@@ -1,0 +1,29 @@
+	
+"
+	start
+
+
+multiple
+
+
+
+no escapes here
+backslash\test
+end
+
+quote"and"quote
+a\b\c
+say "hello"
+a
+b	c
+simple
+test
+\
+quote"here
+hello
+world
+test	tab
+
+	
+
+path\to\file

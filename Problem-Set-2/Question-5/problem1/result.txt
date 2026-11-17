@@ -1,0 +1,20 @@
+end of line
+int a = 1; 
+
+int x = 5; 
+test
+multiple 
+
+int y = 10;
+cod/e here 
+
+no comment / here
+test
+code 
+x = 3; 
+no_slashes
+x=5;
+
+plain text 
+
+x = 5; 

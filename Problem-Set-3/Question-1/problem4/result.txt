@@ -1,0 +1,34 @@
+abc def ghi
+abc
+   multiple spaces
+   a
+a
+
+trailing spaces
+abc
+a
+   abc   def
+abc   def
+abc def ghi
+abc
+a
+abc def
+a
+abc
+no trailing
+abc   def   ghi
+abc
+   abc   def   ghi
+   abc def ghi
+
+   abc
+   a
+   abc def
+   multiple   spaces
+multiple   spaces
+
+   abc
+   multiple   spaces
+abc def
+a
+   leading and trailing

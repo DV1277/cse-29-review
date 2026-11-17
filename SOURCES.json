@@ -1,0 +1,107 @@
+{
+  "Project-1": "https://www.gradescope.com/courses/1415293/assignments/8840013/submissions/436268463.zip",
+  "Problem-Set-1": [
+    {
+      "question": "PS1.1. Binary String to Hexadecimal Conversion",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/737815236/",
+      "submitted_file_count": 0
+    },
+    {
+      "question": "PS1.2. Binary Conversions: Signed and Unsigned",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/737815237/",
+      "submitted_file_count": 9
+    },
+    {
+      "question": "PS1.3. Bit Manipulation & Extraction",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/737815239/",
+      "submitted_file_count": 18
+    },
+    {
+      "question": "PS1.4. Printing Characters and Integer Values",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/737815241/",
+      "submitted_file_count": 6
+    },
+    {
+      "question": "PS1.5. ASCII String Operations",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/737815242/",
+      "submitted_file_count": 9
+    },
+    {
+      "question": "PS1.6. UTF-8 String Operations",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/737815240/",
+      "submitted_file_count": 15
+    },
+    {
+      "question": "PS1.7. is_animal_emoji_at",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/737815238/",
+      "submitted_file_count": 3
+    }
+  ],
+  "Project-2": "https://www.gradescope.com/courses/1415293/assignments/8920399/submissions/440458586.zip",
+  "Problem-Set-2": [
+    {
+      "question": "PS2.1. Count 0 Bits",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/752254657/",
+      "submitted_file_count": 3
+    },
+    {
+      "question": "PS2.2. Base Conversion & Hex Parsing",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/752254660/",
+      "submitted_file_count": 6
+    },
+    {
+      "question": "PS2.3. Input/Output & File Processing",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/752254662/",
+      "submitted_file_count": 8
+    },
+    {
+      "question": "PS2.4. String Manipulation",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/752254661/",
+      "submitted_file_count": 12
+    },
+    {
+      "question": "PS2.5. C Parsing & Text Processing",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/752254659/",
+      "submitted_file_count": 6
+    },
+    {
+      "question": "PS2.6. SHA256 Hash Operations",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/752254658/",
+      "submitted_file_count": 7
+    }
+  ],
+  "Project-3": "https://www.gradescope.com/courses/1415293/assignments/9006374/submissions/445857627.zip",
+  "Problem-Set-3": [
+    {
+      "question": "PS3.1. String Operations",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/765039664/",
+      "submitted_file_count": 12
+    },
+    {
+      "question": "PS3.2. File I/O Operations",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/765039668/",
+      "submitted_file_count": 12
+    },
+    {
+      "question": "PS3.3. Shell Operations",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/765039665/",
+      "submitted_file_count": 10
+    },
+    {
+      "question": "PS3.4. Command Line Parsing",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/765039667/",
+      "submitted_file_count": 8
+    },
+    {
+      "question": "PS3.5. debugging-gdb",
+      "url": "https://us.prairielearn.com/pl/course_instance/221911/instance_question/765039666/",
+      "submitted_file_count": 0
+    }
+  ],
+  "Lab-3": "https://www.gradescope.com/courses/1415293/assignments/8850232/submissions/436764241",
+  "Lab-4": "https://www.gradescope.com/courses/1415293/assignments/8894989/submissions/439206180",
+  "Lab-5": "https://www.gradescope.com/courses/1415293/assignments/8939925/submissions/443677732",
+  "Lab-6": "https://www.gradescope.com/courses/1415293/assignments/8985228/submissions/444339706",
+  "Lab-7": "https://www.gradescope.com/courses/1415293/assignments/9025235/submissions/448679229",
+  "course": "https://cse29.site"
+}
